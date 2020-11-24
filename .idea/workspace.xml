@@ -22,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -38,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606211845093</updated>
-      <workItem from="1606211848146" duration="7402000" />
+      <workItem from="1606211848146" duration="10277000" />
     </task>
     <servers />
   </component>
@@ -50,18 +51,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1606215144190" />
-    <state x="488" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1606215003161">
+    <state x="488" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1606230651863">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606215003161" />
+    <state x="488" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606230651863" />
     <state x="531" y="181" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606224971252">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="181" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1606224971252" />
-    <state x="775" y="132" key="NewPhpClassDialog" timestamp="1606218055268">
+    <state x="775" y="132" key="NewPhpClassDialog" timestamp="1606227845210">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="775" y="132" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1606218055268" />
+    <state x="775" y="132" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1606227845209" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1606215257652">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

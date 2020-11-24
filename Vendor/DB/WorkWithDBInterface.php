@@ -4,8 +4,18 @@ namespace DB;
 
 interface WorkWithDBInterface
 {
-    public function connect();
+    /*
+    @return bool
+    */
+    public function select($query);
 
-    public function CheckConnect($var);
+    /*
+      @return array
+    */
+    public function insert($query);
 
+    /*
+      @return array
+    */
+    public function join($query);
 }
