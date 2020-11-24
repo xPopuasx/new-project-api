@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75a8b4c5-c15a-4347-a99d-04e6cf453b1e" name="Default Changelist" comment="" />
+    <list default="true" id="bb17ca23-bbef-4b3b-bd1f-571205de3795" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1kjQCZy4iQP04aPQsJ4vXtf3Hk5" />
+  <component name="ProjectId" id="1kjR6ywYGpGOE2VUbpobD9PtRzz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,19 +24,47 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\new-test\Vendor\DB" />
+      <recent name="C:\OSPanel\domains\new-test\Vendor\DB\Interfaces" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75a8b4c5-c15a-4347-a99d-04e6cf453b1e" name="Default Changelist" comment="" />
-      <created>1606211394113</created>
+      <changelist id="bb17ca23-bbef-4b3b-bd1f-571205de3795" name="Default Changelist" comment="" />
+      <created>1606211845093</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606211394113</updated>
-      <workItem from="1606211395482" duration="152000" />
+      <updated>1606211845093</updated>
+      <workItem from="1606211848146" duration="7402000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606215144190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1606215144190" />
+    <state x="488" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1606215003161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606215003161" />
+    <state x="531" y="181" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606224971252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="181" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1606224971252" />
+    <state x="775" y="132" key="NewPhpClassDialog" timestamp="1606218055268">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="775" y="132" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1606218055268" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1606215257652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606215257652" />
   </component>
 </project>
